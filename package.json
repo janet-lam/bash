@@ -1,0 +1,22 @@
+{
+  "name": "bash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janet-lam/bash.git"
+  },
+  "author": "Janet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janet-lam/bash/issues"
+  },
+  "homepage": "https://github.com/janet-lam/bash#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
